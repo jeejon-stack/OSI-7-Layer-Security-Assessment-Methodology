@@ -123,5 +123,5 @@ No authentication tokens, session cookies, or browser-stored session data were o
 
 ## About Kyvronix
 
-Kyvronix Limited is a pan-African, AI-native cybersecurity practice founded by Johnson Oni. This write-up reflects the OSI-layer, black-box methodology used across Kyvronix's security assessment work.
+Kyvronix Cybersecurity Solutons Limited is a pan-African, AI-native cybersecurity practice founded by Johnson Oni. This write-up reflects the OSI-layer, black-box methodology used across Kyvronix's security assessment work.
 
